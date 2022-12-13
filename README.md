@@ -29,4 +29,4 @@ Users should be able to:
 
 - React rendering and Working with Stripe API
 
---- Thanks for viewing my project
+--- Thanks for viewing my project ---
