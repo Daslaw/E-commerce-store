@@ -28,3 +28,5 @@ Users should be able to:
 ### What I learned
 
 - React rendering and Working with Stripe API
+
+---Thanks for viewing my project
