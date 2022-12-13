@@ -1,12 +1,6 @@
-# WEB3BRIDGE - Frontend Mentor | Advice generator app
+# E-ccomerce Store App
 
-This is a solution to the Advice generator app task for WEB2CVII TEAM 1
-
-## Overview
-
-This challenge was gotten from Frontend Mentor and facilitated by WEB3BRIDGE.
-
-**To do this challenge, you need a understanding of HTML, Advance CSS and JavaScript Async Await.**
+This is a solution to the E-commerce Store App
 
 ### The challenge
 
@@ -20,7 +14,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://)
+- Solution URL: (https://github.com/Daslaw/E-commerce-store.git)
 - Live Site URL:(https://)
 
 ### Built with
