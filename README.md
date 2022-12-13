@@ -15,16 +15,16 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/Daslaw/E-commerce-store.git)
-- Live Site URL:(https://)
+- Live Site URL:(https://daslaw.github.io/E-commerce-store/)
 
 ### Built with
 
 - Build with React and Bootstrap 
-- Pushed and host on Netlify 
+- Pushed and host on Github
 ### Tools
 - VScode
 - Chrome Browser
 
 ### What I learned
 
-- React rendering and API
+- React rendering and Working with Stripe API
